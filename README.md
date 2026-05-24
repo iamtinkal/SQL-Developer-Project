@@ -1,10 +1,9 @@
-# 🛒 MoreRetail — SQL Developer Internship Project
+# 🛒 Ecommerce — SQL Developer Internship Project
 
 ## 📌 Project Overview
-A fully functional SQL database for **MoreRetail**, a retail chain 
-with 900+ stores across India. This project demonstrates real-world 
+A fully functional SQL database for **MoreRetail**, a retail chain . This project demonstrates real-world 
 SQL development skills including schema design, query optimization, 
-stored procedures, triggers, and security implementation.
+stored procedures, triggers, and security implementation. All data used in this project is made by me, it is not any company data.
 
 ---
 
